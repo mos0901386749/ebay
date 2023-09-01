@@ -1,0 +1,8 @@
+2023-09-01 10:46:16,https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=car&_sacat=0,pass,Test passed successfully.
+2023-09-01 10:46:59,https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nintendo+switch&_sacat=0,failed,Test failed. Keyword 'car' not found in URL.
+2023-09-01 10:47:25,https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nintendo+switch&_sacat=0,failed,Test failed. Keyword 'nintendo switch' not found in URL.
+2023-09-01 10:57:27,https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nintendo+switch&_sacat=0,pass,Test passed successfully. Keyword 'OLED' found on the page.
+2023-09-01 10:58:17,https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nintendo+switch&_sacat=0,pass,Test passed successfully. Keyword 'OLED' found on the page.
+2023-09-01 10:58:32,https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nintendo+switch&_sacat=0,pass,Test passed successfully. Keyword 'OLED' found on the page.
+2023-09-01 10:59:13,https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nintendo+switch&_sacat=0,pass,Test passed successfully. Keyword 'OLED' found on the page.
+2023-09-01 10:59:47,https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nintendo+switch&_sacat=0,pass,Test passed successfully. Keyword 'OLED' found on the page.
